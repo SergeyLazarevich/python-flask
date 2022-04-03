@@ -4,7 +4,9 @@
 Стек:
 
 ML: sklearn, pandas, numpy, catboost
+
 API: flask
+
 Данные: с kaggle - https://www.kaggle.com/competitions/titanic/overview
 
 Задача: предсказать по описанию какие пассажиры пережили кораблекрушение Титаника.
