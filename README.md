@@ -1,10 +1,12 @@
 # python-flask
-Итоговый проект (пример) курса "Машинное обучение в бизнесе"
+Итоговый проект курса "Машинное обучение в бизнесе"
 
 Стек:
 
 ML: sklearn, pandas, numpy, catboost
+
 API: flask
+
 Данные: с kaggle - https://www.kaggle.com/competitions/titanic/overview
 
 Задача: предсказать по описанию какие пассажиры пережили кораблекрушение Титаника.
